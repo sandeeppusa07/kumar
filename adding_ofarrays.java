@@ -18,6 +18,7 @@ public class adding_ofarrays {
 	{
 		c[x]=b[x];
 		System.out.print(c[x]+" ");
+		System.out.println("this is praveen kumar");
 	}
 	}
 
